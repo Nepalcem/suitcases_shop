@@ -42,7 +42,7 @@
       border: 2px solid $select-border-color;
       outline: none;
       cursor: pointer;
-      background: url("../../src/assets/images/product-page/select-arrow.svg")
+      background: url("../assets/images/product-page/select-arrow.svg")
         no-repeat right 14px center;
       background-size: 12px;
     }
@@ -141,7 +141,7 @@
           height: 8px;
 
           // Inline SVG as background
-          background-image: url("/src/assets/images/catalog/arrow.svg");
+          background-image: url("../assets/images/catalog/arrow.svg");
           background-repeat: no-repeat;
           background-size: contain;
           vertical-align: middle;

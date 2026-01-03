@@ -48,7 +48,7 @@
     .star-rating input:checked ~ label img,
     .star-rating label:hover img,
     .star-rating label:hover ~ label img {
-      content: url("../../../src/assets/images/product-page/star-full.svg"); /* replace empty with full star */
+      content: url("../assets/images/product-page/star-full.svg"); /* replace empty with full star */
     }
   }
 

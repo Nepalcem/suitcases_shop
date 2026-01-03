@@ -36,7 +36,7 @@ a {
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background: url("../../src/assets/images/product-page/select-arrow.svg") no-repeat right 18px center;
+  background: url("../assets/images/product-page/select-arrow.svg") no-repeat right 18px center;
   background-size: 12px;
   padding-right: 18px;
   border: 2px solid #E9E9ED;
@@ -1330,7 +1330,7 @@ header {
   border: 2px solid #E9E9ED;
   outline: none;
   cursor: pointer;
-  background: url("../../src/assets/images/product-page/select-arrow.svg") no-repeat right 14px center;
+  background: url("../assets/images/product-page/select-arrow.svg") no-repeat right 14px center;
   background-size: 12px;
 }
 .catalog-page .catalog-left-column .catalog-list {
@@ -1433,7 +1433,7 @@ header {
   margin-left: 13px;
   width: 12px;
   height: 8px;
-  background-image: url("/src/assets/images/catalog/arrow.svg");
+  background-image: url("../assets/images/catalog/arrow.svg");
   background-repeat: no-repeat;
   background-size: contain;
   vertical-align: middle;
@@ -2056,7 +2056,7 @@ header {
 .review-form .review-form-rating .star-rating input:checked ~ label img,
 .review-form .review-form-rating .star-rating label:hover img,
 .review-form .review-form-rating .star-rating label:hover ~ label img {
-  content: url("../../../src/assets/images/product-page/star-full.svg"); /* replace empty with full star */
+  content: url("../assets/images/product-page/star-full.svg"); /* replace empty with full star */
 }
 .review-form #review-textarea {
   box-sizing: border-box;
