@@ -6,7 +6,7 @@
 }
 
 .about-breadcrumb {
-  @include bg-overlay("../../../src/assets/images/about/about-breadcrumb.png");
+  @include bg-overlay("../assets/images/about/about-breadcrumb.png");
   text-align: center;
   padding-top: 211px;
   padding-bottom: 213px;

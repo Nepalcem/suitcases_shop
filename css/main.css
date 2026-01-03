@@ -1756,7 +1756,7 @@ header {
 }
 
 .about-breadcrumb {
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../../../src/assets/images/about/about-breadcrumb.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../assets/images/about/about-breadcrumb.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
